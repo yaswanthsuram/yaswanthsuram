@@ -85,6 +85,8 @@ I work with **AWS, Azure, Kubernetes, Docker, Terraform, Golang, Python, Java, m
 
 ## 🐍 Contribution Graph
 
+## 🐍 Contribution Graph
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yaswanthsuram/yaswanthsuram/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
